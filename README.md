@@ -18,3 +18,8 @@ and export the dataframe to a csv.
 3. Create an algorithm that finds all possible 3 fight sequences where fighters A,B & C have fought eachother.
 4. Determine percentage of fights where the transitive property holds
 
+Code does not need to be adjusted each time more fights are added to the website.
+
+**ERROR WARNING**
+If code is run during the timeslot of a new UFC fight, the data tags will be slightly different as some of the fights
+will have blank fields for the results on the website, this will generate an error.
