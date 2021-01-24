@@ -18,6 +18,8 @@ and export the dataframe to a csv.
 3. Create an algorithm that finds all possible 3 fight sequences where fighters A,B & C have fought eachother.
 4. Determine percentage of fights where the transitive property holds
 
+Current ratio 0.8125 = (mma math works)/(mma math works + doesnt work)
+
 Code does not need to be adjusted each time more fights are added to the website.
 
 **ERROR WARNING**
