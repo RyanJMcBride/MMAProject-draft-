@@ -1,14 +1,14 @@
 # MMAProject
-The aim of this project is to answer the question "How often can does 'MMA math' work in the UFC?"
+The aim of this project is to answer the question "How often can does **'MMA math' work in the UFC?"**
 
 More specifically the question is asking, "Do mma matches exhibit a transitive property". Moreover, if
-**A,B & C** are fighters and A>B indicates that A defeated B, then how often is the following logic consistent:
+**A,B & C** are fighters and **A>B** indicates that **A** defeated **B**, then how often is the following logic consistent:
 
-A>B and B>C does that mean A>C?
+**A>B** and **B>C** does that mean **A>C**?
 
-If A>C, then MMA math 'works' for this particular case and vice versa.
+If **A>C**, then MMA math 'works' for this particular case and vice versa.
 
-To get a quantitative answer, ufc fight data is collected and a ratio of of (mma math works)/(mma math works + doesnt)
+To get a quantitative answer, ufc fight data is collected and a ratio of of **(mma math works)/(mma math works + doesnt)**
 is calculated.
 
 The steps involved are as follows:
@@ -18,7 +18,7 @@ and export the dataframe to a csv.
 3. Create an algorithm that finds all possible 3 fight sequences where fighters A,B & C have fought eachother.
 4. Determine percentage of fights where the transitive property holds
 
-Current ratio 0.8125 = (mma math works)/(mma math works + doesnt work)
+Current ratio **0.8125 = (mma math works)/(mma math works + doesnt work)**
 
 Code does not need to be adjusted each time more fights are added to the website.
 
