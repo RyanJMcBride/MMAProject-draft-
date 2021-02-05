@@ -2,7 +2,7 @@
 The aim of this project is to answer the question "How often can does 'MMA math' work in the UFC?"
 
 More specifically the question is asking, "Do mma matches exhibit a transitive property". Moreover, if
-A,B & C are fighters and A>B indicates that A defeated B, then how often is the following logic consistent:
+**A,B & C** are fighters and A>B indicates that A defeated B, then how often is the following logic consistent:
 
 A>B and B>C does that mean A>C?
 
