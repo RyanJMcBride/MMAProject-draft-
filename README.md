@@ -23,6 +23,8 @@ and export the dataframe to a csv.
 
 Current ratio **0.8125 = (mma math works)/(total 3 fight sequences)**
 
+This means that if you predicted the outcome of a fight based on MMA math logic then you would be right 81.25% of the time.
+
 Code does not need to be adjusted each time more fights are added to the website.
 
 **ERROR WARNING**
