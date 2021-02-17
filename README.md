@@ -1,4 +1,6 @@
 # UFC Fight webscraping and analysis of 'MMA Math'
+Uses Python's Pandas, BeautifulSoup and Requests.
+
 The aim of this project is to answer the question "How often can does **'MMA math' work in the UFC?"**
 
 More specifically the question is asking, "Do mma matches exhibit a transitive property". Moreover, if
