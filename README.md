@@ -4,6 +4,7 @@ Uses Python's Pandas, BeautifulSoup and Requests.
 Run the fight scraper if csv isnt current. Last updated **17/02/21**.
 
 Future plans:
+ - remove from notebook form, add requirements.txt
  - create update function to avoid running the whole fight scraper to update the data.
  - create relational database containing fight data with more fields such as method of win, fight time, sig strikes and fighter metrics.
 
