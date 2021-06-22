@@ -1,4 +1,6 @@
 # UFC Fight webscraping and analysis of 'MMA Math'
+
+This is just an initial draft and data exploration. The Fightdata repo is the final repo.
 Uses Python's Pandas, BeautifulSoup and Requests.
 
 Run the fight scraper if csv isnt current. Last updated **17/02/21**.
